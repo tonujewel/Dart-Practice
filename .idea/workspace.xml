@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ed7a34e-ef6a-4fa6-b77a-410377f3b005" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hQCLKy1kiHQ1zFjwuVmtmfQuXC" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hello_world.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/src/hello_world.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/src" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.hello_world.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ed7a34e-ef6a-4fa6-b77a-410377f3b005" name="Default Changelist" comment="" />
+      <created>1599933872175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599933872175</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2387" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599934010425">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2387" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934010425" />
+    <state width="1340" height="195" key="GridCell.Tab.0.bottom" timestamp="1599934036277">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934036277" />
+    <state width="1340" height="195" key="GridCell.Tab.0.center" timestamp="1599934036276">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934036276" />
+    <state width="1340" height="195" key="GridCell.Tab.0.left" timestamp="1599934036276">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934036276" />
+    <state width="1340" height="195" key="GridCell.Tab.0.right" timestamp="1599934036276">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934036276" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1599933877672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599933877672" />
+  </component>
+</project>

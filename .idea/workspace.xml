@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed7a34e-ef6a-4fa6-b77a-410377f3b005" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/hello_world.dart" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello_world.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditional_statement/if_else.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditional_statement/switch_case_statement.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditional_statement/ternary_operator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_type/data_type.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_type/final_and_const.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_type/string_literal_string_interpolarion.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/foor_loop_internally.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/loop_control.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello_world.dart" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_type/hello_world.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +29,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hQCLKy1kiHQ1zFjwuVmtmfQuXC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,15 +42,44 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
   </component>
-  <component name="RunManager">
-    <configuration name="hello_world.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/src/hello_world.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/src" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dart Practice\Dart Practice\src\data_type" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.loop_control.dart">
+    <configuration name="if_else.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/src/conditional_statement/if_else.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/src/conditional_statement" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loop_control.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/src/loop/loop_control.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/src/loop" />
+      <method v="2" />
+    </configuration>
+    <configuration name="string_literal_string_interpolarion.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/src/data_type/string_literal_string_interpolarion.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/src/data_type" />
+      <method v="2" />
+    </configuration>
+    <configuration name="switch_case_statement.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/src/conditional_statement/switch_case_statement.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/src/conditional_statement" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ternary_operator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/src/conditional_statement/ternary_operator.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/src/conditional_statement" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.hello_world.dart" />
+        <item itemvalue="Dart Command Line App.loop_control.dart" />
+        <item itemvalue="Dart Command Line App.switch_case_statement.dart" />
+        <item itemvalue="Dart Command Line App.ternary_operator.dart" />
+        <item itemvalue="Dart Command Line App.if_else.dart" />
+        <item itemvalue="Dart Command Line App.string_literal_string_interpolarion.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -54,29 +94,49 @@
       <option name="presentableId" value="Default" />
       <updated>1599933872175</updated>
     </task>
+    <task id="LOCAL-00001" summary="comment">
+      <created>1599934241041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599934241041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2387" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599934010425">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2387" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934010425" />
-    <state width="1340" height="195" key="GridCell.Tab.0.bottom" timestamp="1599934193705">
+    <state x="2587" y="52" key="CommitChangelistDialog2" timestamp="1599934239824">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934193705" />
-    <state width="1340" height="195" key="GridCell.Tab.0.center" timestamp="1599934193705">
+    <state x="2587" y="52" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934239824" />
+    <state width="1343" height="285" key="GridCell.Tab.0.bottom" timestamp="1599939711246">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="195" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934193705" />
-    <state width="1340" height="195" key="GridCell.Tab.0.left" timestamp="1599934193704">
+    <state width="1343" height="285" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599939711246" />
+    <state width="1343" height="285" key="GridCell.Tab.0.center" timestamp="1599939711246">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="195" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934193704" />
-    <state width="1340" height="195" key="GridCell.Tab.0.right" timestamp="1599934193705">
+    <state width="1343" height="285" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599939711246" />
+    <state width="1343" height="285" key="GridCell.Tab.0.left" timestamp="1599939711246">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="195" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934193705" />
+    <state width="1343" height="285" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599939711246" />
+    <state width="1343" height="285" key="GridCell.Tab.0.right" timestamp="1599939711246">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1343" height="285" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599939711246" />
+    <state x="2525" y="190" key="Vcs.Push.Dialog.v2" timestamp="1599934247131">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2525" y="190" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599934247131" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1599933877672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
